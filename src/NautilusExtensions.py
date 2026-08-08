@@ -1,0 +1,1 @@
+from nautilusextensions import CreateFileExtension

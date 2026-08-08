@@ -1,0 +1,10 @@
+{
+  "create_file": {
+    "title": "Crear archivo",
+    "name": "Nombre del archivo",
+    "cancel": "Cancelar",
+    "create": "Crear",
+    "exists": "El archivo ya existe",
+    "error": "Error"
+  }
+}
